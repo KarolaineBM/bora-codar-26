@@ -2,4 +2,4 @@
 
 ##
 
-![Texto Alternativo]([URL_da_Imagem](https://github.com/KarolaineBM/bora-codar-26/assets/90115873/8c600d49-501d-40d7-aa7e-e71201b8aae0))
+![Projeto](https://github.com/KarolaineBM/bora-codar-26/assets/90115873/0c69e2ec-3985-4d08-8b0c-2bb28b0906d2)
