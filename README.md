@@ -1,4 +1,4 @@
-<h1 align="center;">Projeto cardápio de pamonhas</h1>
+<h1 align="center">Projeto cardápio de pamonhas</h1>
 
 ##
 
